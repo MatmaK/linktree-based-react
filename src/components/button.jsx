@@ -4,7 +4,8 @@ import '../css/btn.css'
 function Button(props) {
   
   function clickLink(link) {
-    window.open(link);
+    if (link != '#')
+        window.open(link);
   }
 
   return (
