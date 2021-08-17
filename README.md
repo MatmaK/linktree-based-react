@@ -15,4 +15,4 @@ It's my first React project, hope you all like it
 Ahh, and if possible follow my friend's candy store Instagram page, the candys are great
 ***
 
-Link: https://bit.ly/Alforty
+Link: https://bit.ly/alforty
