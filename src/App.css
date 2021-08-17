@@ -12,6 +12,7 @@ body {
   text-align: center;
   font-family: Poppins;
   min-height:100%;
+  color: white;
 }
 
 .profile {
@@ -20,7 +21,6 @@ body {
   width: 100%;
   padding-top: 10px;
   padding-bottom: 1px;
-  color: black;
 }
 
 .profile .name {
@@ -61,6 +61,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   bottom: 0;
+  color: black;
 }
 
 footer a {
